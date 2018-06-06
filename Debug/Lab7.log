@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Queue.cpp
+  Generating Code...
+d:\kyle's stuff\cs 162\lab7\lab7\queue.cpp(61): warning C4715: 'Queue::getFront': not all control paths return a value
+  Lab7.vcxproj -> D:\Kyle's Stuff\CS 162\Lab7\Debug\Lab7.exe
